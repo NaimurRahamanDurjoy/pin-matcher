@@ -41,7 +41,7 @@ document.getElementById('key-pad').addEventListener('click', function(event){
     
 })
 
-//  ======================COMPARESION=========================
+//  ======================MATCHING COMPARESION=========================
 function comparesionSubmit(){
     const generatePin = document.getElementById('generate-pin-input').value;
     const calculatePin = document.getElementById('calc-input').value;
